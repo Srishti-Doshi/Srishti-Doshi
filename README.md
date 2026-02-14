@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Srishti Doshi</h1>
 <h3 align="center">B.Tech Student | MERN Stack Developer | Problem Solver</h3>
 
-<table width = 100%>
+<table width = 100% cellpadding="0" cellspacing="0">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔥 Primary Focus: MERN Stack
-- Building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**
+- Building full-stack web applications using
+  
+  **MongoDB**
+  
+  **Express.js**
+  
+  **React.js**
+  
+  **Node.js**
+  
 - Designing and developing **scalable RESTful APIs**
 - Creating responsive, user-friendly interfaces with **React.js**
 - Implementing seamless **frontend–backend integration** for data-driven applications
@@ -20,7 +29,7 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" valign="top" align="center">
 
 <img src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f" width="360"/>
 
