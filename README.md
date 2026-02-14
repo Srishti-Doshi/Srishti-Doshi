@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srishti Doshi</h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f" width="420"/>
-</p>
-
 <h3 align="center">B.Tech Student | MERN Stack Developer | Problem Solver</h3>
 
-
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🔥 Primary Focus: MERN Stack
 - Building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**
@@ -21,6 +17,16 @@
 - Backend development using **Python & Django**
 - Strong foundation in **Data Structures & Algorithms using C++**
 - Writing clean, optimized, and maintainable code
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f" width="360"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,8 +98,6 @@ MongoDB · Express.js · React · Node.js
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Srishti-Doshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Proudly created with GPRM -->
