@@ -1,112 +1,61 @@
 <h1 align="center">Hi 👋, I'm Srishti Doshi</h1>
-<h3 align="center">B.Tech Student | MERN Stack Developer | Problem Solver</h3>
 
-<table width = 100% cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA94B&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;C%2B%2B+Problem+Solver;NPTEL+IIT+Ropar+Intern;Full-Stack+Enthusiast" alt="Typing SVG" />
+</p>
 
-### 🔥 Primary Focus: MERN Stack
-- Building full-stack web applications using
-  
-  **MongoDB**
-  
-  **Express.js**
-  
-  **React.js**
-  
-  **Node.js**
-  
-- Designing and developing **scalable RESTful APIs**
-- Creating responsive, user-friendly interfaces with **React.js**
-- Implementing seamless **frontend–backend integration** for data-driven applications
+<div align="center" style="margin-top:-10px; margin-bottom:-10px;">
+  <img 
+    src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f" 
+    width="260"
+    alt="coding gif"
+  />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srishti-doshi-b61683294/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:srishtidoshi7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📚 Supporting Skills
-- Backend development using **Python & Django**
-- Strong foundation in **Data Structures & Algorithms using C++**
-- Writing clean, optimized, and maintainable code
+### 💫 About Me
+I am a **B.Tech Computer Science student** passionate about building scalable web applications and solving complex algorithmic challenges.  
+Currently, I'm honing my full-stack skills through an **NPTEL Internship at IIT Ropar**, focusing on modern web architectures.
 
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<img src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f" width="360"/>
-
-</td>
-</tr>
-</table>
+- 🔭 **Current Focus:** Advanced React patterns & System Design  
+- ⚡ **Specialization:** MERN Stack & Data Structures in C++  
+- 🌱 **Past Wins:** Built a dynamic blogging platform using Django  
+- 🎯 **Goal:** Building impactful products that solve real-world problems  
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 🧑‍💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Srishti-Doshi&theme=dark&show_icons=true&include_all_commits=true&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-Doshi&theme=dark&layout=compact&cache_seconds=86400" width="40%" />
+</p>
 
----
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Srishti-Doshi&theme=dark&mode=weekly" width="89%" />
+</p>
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
----
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-#### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 🚀 Full-Stack Expertise
-**MERN Stack**  
-MongoDB · Express.js · React · Node.js
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-doshi-b61683294/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtidoshi7@gmail.com)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srishti-Doshi&theme=dark&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-Doshi&theme=dark&layout=compact)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Srishti-Doshi&theme=dark&mode=weekly)
-
----
-
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srishti-Doshi&theme=github-dark)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Srishti-Doshi&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Srishti-Doshi?label=Followers&style=for-the-badge" />
+</p>
