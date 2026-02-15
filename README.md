@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Srishti Doshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA94B&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;C%2B%2B+Problem+Solver;NPTEL+IIT+Ropar+Intern;Full-Stack+Enthusiast" alt="Typing SVG" />
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;C%2B%2B+Problem+Solver;NPTEL+IIT+Ropar+Intern;Full-Stack+Enthusiast" 
+  alt="Typing SVG" 
+/>
+
 </p>
 
-<div align="center" style="margin-top:-10px; margin-bottom:-10px;">
+<div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f" 
-    width="260"
+    src="https://github.com/user-attachments/assets/d587d3b0-b07d-4f73-91f7-96a927ba694f"
+    width="360"
     alt="coding gif"
   />
 </div>
